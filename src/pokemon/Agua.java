@@ -1,5 +1,7 @@
 package pokemon;
 
+//ESTOY COMENTANDO LA CLASE AGUA 
+
 public class Agua extends Pokemon{
 	public Agua(String nombre, int vida, int pm) {
 		this.setTipo("Agua");
