@@ -1,6 +1,7 @@
 package pokemon;
 
 //Esto es un COMENTARIO PARA LA PRACTICA DE ENTORNOS
+//añado un comentario más
 public abstract class Pokemon {
 	protected String nombre;
 	private String tipo;
