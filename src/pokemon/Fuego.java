@@ -1,5 +1,7 @@
 package pokemon;
 
+
+//AÑADO COMENTARIO EN LA CLASE FUEGO 
 public class Fuego extends Pokemon{
 	
 	public Fuego(String nombre, int vida, int pm) {
